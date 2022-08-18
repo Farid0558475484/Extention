@@ -1,0 +1,6 @@
+/Users/xamyak/Desktop/Extention/Extention/bin/Debug/Extention.exe
+/Users/xamyak/Desktop/Extention/Extention/bin/Debug/Extention.pdb
+/Users/xamyak/Desktop/Extention/Extention/obj/Debug/Extention.csproj.AssemblyReference.cache
+/Users/xamyak/Desktop/Extention/Extention/obj/Debug/Extention.csproj.CoreCompileInputs.cache
+/Users/xamyak/Desktop/Extention/Extention/obj/Debug/Extention.exe
+/Users/xamyak/Desktop/Extention/Extention/obj/Debug/Extention.pdb

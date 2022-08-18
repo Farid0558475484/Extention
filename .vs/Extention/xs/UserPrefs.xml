@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{7341FEF2-00F8-4B81-9B95-C7C399126F1C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Extention/ExtentionMethods class.cs">
     <Files>
-      <File FileName="Extention/Program.cs" Line="1" Column="1" />
-      <File FileName="Extention/ExtentionMethods class.cs" Line="1" Column="1" />
+      <File FileName="Extention/Program.cs" Line="10" Column="52" />
+      <File FileName="Extention/ExtentionMethods class.cs" Line="5" Column="34" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,5 +22,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Extention FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Extention PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
